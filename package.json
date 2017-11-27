@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-air-pollution-map-on-windyty",
+  "version": "1.0.0",
+  "main": "background.js",
+  "author": "meisheep",
+  "license": "MIT"
+}
