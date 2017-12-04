@@ -18,7 +18,9 @@
 
   "permissions": [
     "activeTab",
+    "tabs",
     "https://windy.com/*",
+    "https://www.windy.com/*",
     "https://airmap.g0v.asper.tw/*"
   ],
   "icons": {

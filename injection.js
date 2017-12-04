@@ -36,10 +36,10 @@
             <div style="
                 text-align: center;
                 font-weight: bold;
-                line-height: 2em;
-                font-size: 1.5em;
-                width: 2em;
-                height: 2em;
+                line-height: 24px;
+                font-size: 16px;
+                width: 24px;
+                height: 24px;
                 border-radius: 50%;
                 background-color: \${markerColor(idxNum)};
                 opacity: .75;
